@@ -36,8 +36,8 @@ Natural Language Processing.
 
 
 ### Technologies
-* Python
-* Pandas, jupyter
+* Python, Jupyter
+* Pandas, gensim, nltk, seaborn
 
 
 #### Contact
