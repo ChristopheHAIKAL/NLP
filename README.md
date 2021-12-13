@@ -30,7 +30,7 @@ Natural Language Processing.
 
 ### Methods Used
 * Inferential Statistics
-* Machine Learning
+* Machine Learning: TF-IDF with Word2Vec and Doc2Vec for frequency based embeddingsand clustering using DBSCAN, topic modelling with LDA
 * Data Visualization
 * Predictive Modeling
 
@@ -38,7 +38,6 @@ Natural Language Processing.
 ### Technologies
 * Python
 * Pandas, jupyter
-* Django
 
 
 #### Contact
@@ -46,4 +45,4 @@ Natural Language Processing.
 |Name     | 
 |---------|
 |[Christophe Haikal](https://github.com/ChristopheHAIKAL)|
-|[Ryan Jebali](https://github.com/hug0prevoteau) |   
+|[Hugo Prevoteau](https://github.com/hug0prevoteau) |   
